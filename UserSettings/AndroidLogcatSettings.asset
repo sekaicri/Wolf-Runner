@@ -1,0 +1,371 @@
+{
+    "m_SelectedDeviceId": "ZY22BF8VKK",
+    "m_SelectedPackage": {
+        "deviceId": "ZY22BF8VKK",
+        "name": "com.JsonProductions.Wolf_Runner",
+        "processId": 5813,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 12406,
+            "exited": true
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 17687,
+            "exited": true
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 25938,
+            "exited": true
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 6038,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 12153,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 14376,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 15184,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 17761,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 25629,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 27580,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 5016,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 6133,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 9105,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 11563,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 13280,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 15846,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 18275,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 25053,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 26474,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 27223,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 30818,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 2418,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 5757,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 6791,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 10851,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 15728,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 17174,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 18162,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 22497,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 29432,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 9670,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 15693,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 26605,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 1115,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 9023,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 12667,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 16711,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 31194,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 31756,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 8058,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 9423,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 22666,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 28549,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 29738,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 4102,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 5346,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 9472,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 18724,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 22648,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 28379,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22BF8VKK",
+            "name": "com.JsonProductions.Wolf_Runner",
+            "processId": 5813,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
