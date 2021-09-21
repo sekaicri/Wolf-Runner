@@ -249,6 +249,8 @@ public class PlayerData
         m_Instance.characters.Add("Fire Wolf");
         m_Instance.characters.Add("Wind Wolf");
         m_Instance.themes.Add("Day");
+        m_Instance.themes.Add("NightTime");
+
 
         m_Instance.ftueLevel = 0;
         m_Instance.rank = 0;

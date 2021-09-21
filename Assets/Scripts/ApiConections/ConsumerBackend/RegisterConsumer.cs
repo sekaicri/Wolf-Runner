@@ -23,6 +23,8 @@ public class RegisterConsumer : MonoBehaviour
     private Text alert;
     [SerializeField]
     private Toggle check;
+    [SerializeField]
+    private UnityEvent useEmail;
 
 
 
@@ -69,10 +71,17 @@ public class RegisterConsumer : MonoBehaviour
         yield return serviceData.SendAsync(Response);
     }
 
+
+    private void EmailInUse(){
+        useEmail.Invoke();
+        mainMenu.gameObject.SetActive(true);
+        register.gameObject.SetActive(false);
+
+    }
     private void Response(string response, string code)
     {
         //InAppNotification.Instance.HideNotication();
-        if (code.Contains("200")) { 
+        if (code.Contains("200")) {
             this.response = JsonConvert.DeserializeObject<LoginResponse>(response);
             succeededRegister.Invoke();
             mainMenu.gameObject.SetActive(true);
@@ -81,6 +90,11 @@ public class RegisterConsumer : MonoBehaviour
             PlayerPrefs.SetString("name", name);
 
 
+        }
+        else if (code.Contains("201")) {
+            alert.text = "The mail is already in use";
+            PlayerPrefs.SetString("name", name);
+            Invoke("EmailInUse", 2f);
         }
 
         else

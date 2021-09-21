@@ -3,11 +3,14 @@
 [System.Serializable]
 public class User 
 {
-    public string email ;
+    public int id;
     public string name;
     public string lastname;
-    public string postal_code;
-    public string device;
     public string phone;
+    public string postal_code;
+    public string email;
+    public string age;
+    public string device;
+
 
 }

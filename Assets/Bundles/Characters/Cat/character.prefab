@@ -59,7 +59,7 @@ MonoBehaviour:
   - {fileID: 114000012881478878}
   animator: {fileID: 1154986178446416847}
   icon: {fileID: 21300054, guid: e1a536f74c7ef384a8d7132148ace0c8, type: 3}
-  jumpSound: {fileID: 8300000, guid: 52dbfe4d39ddc7c41b9eb47a6c9e9ab8, type: 3}
+  jumpSound: {fileID: 0}
   hitSound: {fileID: 8300000, guid: 9baf3f4fa8a9143498d4a1c77fc6d929, type: 3}
   deathSound: {fileID: 8300000, guid: 6365e5ec8bc89784d9f3ca5104b6fb48, type: 3}
 --- !u!82 &82000013563701790
